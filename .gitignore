@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 javaqa.iml
-.idea
+/.idea/
